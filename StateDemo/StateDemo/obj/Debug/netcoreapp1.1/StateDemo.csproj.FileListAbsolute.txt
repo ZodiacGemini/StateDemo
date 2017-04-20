@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\bin\Debug\netcoreapp1.1\StateDemo.deps.json
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\bin\Debug\netcoreapp1.1\StateDemo.runtimeconfig.json
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\bin\Debug\netcoreapp1.1\StateDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\bin\Debug\netcoreapp1.1\StateDemo.dll
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\bin\Debug\netcoreapp1.1\StateDemo.pdb
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\obj\Debug\netcoreapp1.1\StateDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\obj\Debug\netcoreapp1.1\StateDemo.AssemblyInfo.cs
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\obj\Debug\netcoreapp1.1\StateDemo.dll
+C:\Users\Administrator\Documents\DemosMedPontus\.Net Core Demo\StateDemo\StateDemo\StateDemo\obj\Debug\netcoreapp1.1\StateDemo.pdb

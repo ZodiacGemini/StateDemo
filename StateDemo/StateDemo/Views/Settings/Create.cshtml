@@ -1,0 +1,20 @@
+﻿
+@model SettingsCreateVM
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-action="Create">
+        <label asp-for="CompanyName"></label>
+        <input asp-for="CompanyName"/>
+        <span asp-validation-for="CompanyName"></span>
+        <br />
+        <label asp-for="SupportEmail"></label>
+        <input asp-for="SupportEmail" />
+        <span asp-validation-for="SupportEmail"></span>
+        <input type="submit" />
+    </form>
+</body>
+</html>
